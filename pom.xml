@@ -69,7 +69,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>matrix-auth</artifactId>
-            <version>2.2</version>
+            <version>2.6.6</version>
         </dependency>
         <dependency>
             <groupId>org.hamcrest</groupId>
@@ -80,7 +80,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>cloudbees-folder</artifactId>
-            <version>6.1.0</version>
+            <version>6.848.ve3b_fd7839a_81</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
